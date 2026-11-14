@@ -1,0 +1,10 @@
+[
+  {"object": "ЖК-1", "defects": 3, "cost": 150000, "delay_days": 2},
+  {"object": "ЖК-2", "defects": 7, "cost": 320000, "delay_days": 5},
+  {"object": "ЖК-3", "defects": 1, "cost": 90000, "delay_days": 0},
+  {"object": "ЖК-4", "defects": 12, "cost": 410000, "delay_days": 9},
+  {"object": "ЖК-5", "defects": 2, "cost": 110000, "delay_days": 1},
+  {"object": "ЖК-6", "defects": 48, "cost": 260000, "delay_days": 30},
+  {"object": "ЖК-7", "defects": 4, "cost": 175000, "delay_days": 3},
+  {"object": "ЖК-8", "defects": 5, "cost": 200000, "delay_days": 4}
+]

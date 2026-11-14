@@ -1,0 +1,61 @@
+{
+  "inventory": {
+    "IFCCOLUMN|L1": 6,
+    "IFCCOLUMN|L2": 6,
+    "IFCCOLUMN|L3": 6,
+    "IFCCOLUMN|L4": 6,
+    "IFCDOOR|L1": 7,
+    "IFCDOOR|L2": 5,
+    "IFCDOOR|L3": 5,
+    "IFCDOOR|L4": 5,
+    "IFCSLAB|L1": 1,
+    "IFCSLAB|L2": 1,
+    "IFCSLAB|L3": 1,
+    "IFCSLAB|L4": 1,
+    "IFCSLAB|Roof": 1,
+    "IFCWALL|L1": 9,
+    "IFCWALL|L2": 9,
+    "IFCWALL|L3": 10,
+    "IFCWALL|L4": 9,
+    "IFCWINDOW|L1": 6,
+    "IFCWINDOW|L2": 6,
+    "IFCWINDOW|L3": 6,
+    "IFCWINDOW|L4": 5
+  },
+  "violations": {
+    "R1": [
+      "0Ba4SbSf5Z5lxMOqZK2hM_",
+      "2jKsrpA2MIFrLwDVx2bGy6",
+      "3PuYCL0knhNU7zqjSu52VG"
+    ],
+    "R2": [
+      "16D8pJ0i1nT_qwdwj6GU2j",
+      "1HyWZrYC90p$3r7kdipsco",
+      "2JgTzHlkDKmBFC2qf71dgW"
+    ],
+    "R3a": [
+      "1jK4wVjH3LyNvH$xZghL9z"
+    ],
+    "R3b": [
+      "22eZ6UVYfHQ99Z4ful5VCc"
+    ],
+    "R4": [
+      "1YpLcfQUkX9$ldhR5E81gI"
+    ],
+    "R5": [
+      "3C1loiANjjGiwnw1OCUdTc"
+    ],
+    "R6": [
+      "1G_IyVgqCOFzIxNFCh6e$m"
+    ],
+    "R7": [
+      "3syV2iKdpcTHDWCyhf$s_v"
+    ],
+    "R8": [
+      "1TWS7T8IUbGw1gyjxCt6s_"
+    ]
+  },
+  "cost_rub": 9665944.16,
+  "total_days": 123,
+  "drawing_discrepancy": "на плане L2 есть дверь 900 мм в западной наружной стене (центр y = 6 м), в IFC её нет"
+}

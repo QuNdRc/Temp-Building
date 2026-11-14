@@ -1,0 +1,12 @@
+# Python-зависимости для заготовок хакатона.
+# Установка:  pip install -r requirements.txt
+#
+# Сейчас (заготовки 03 и 04) используются только первые три;
+# opencv-python и shapely понадобятся для будущих заготовок
+# 05_geometry_py (shapely) и 06_computer_vision_py (opencv).
+numpy
+matplotlib
+pandas
+opencv-python
+shapely
+python-docx

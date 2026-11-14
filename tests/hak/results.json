@@ -1,0 +1,141 @@
+{
+  "assumptions": {
+    "site": "участок 100x30 м = 3000 м2 (0.3 га); противоречие 0.25/0.3 принято 0.3",
+    "kZ": 0.35,
+    "floors": 5,
+    "offices_m2": 620,
+    "flats_area_m2": 3480,
+    "m2_per_person": 33.0,
+    "living_share_min": 0.45,
+    "parking_per_flat": 0.6,
+    "parking_per_100m2_psn": 1.0,
+    "parking_m2_per_place": 35.0,
+    "green_site_m2": 750,
+    "sport_m2_per_person": 1.0,
+    "cadastral_rub_per_m2": 250000,
+    "smr_above_rub_m2": 200000,
+    "smr_below_rub_m2": 250000,
+    "pir_rub_m2": 12000,
+    "expertise_pct_smr": 0.05,
+    "market_living_rub_m2": 900000,
+    "market_psn_rub_m2": 800000,
+    "market_parking_rub_place": 3000000
+  },
+  "tep_and_budget": {
+    "site_m2": 3000.0,
+    "built_m2": 1050.0,
+    "above_m2": 5250.0,
+    "psn_m2": 620,
+    "flats_area_m2": 3480,
+    "mop_m2": 1150.0,
+    "residents": 105,
+    "flats": 50,
+    "rooms": [
+      [
+        "1-комн",
+        15,
+        42.0,
+        630
+      ],
+      [
+        "2-комн",
+        20,
+        64.0,
+        1280
+      ],
+      [
+        "3-комн",
+        10,
+        90.0,
+        900
+      ],
+      [
+        "4-комн",
+        5,
+        134.0,
+        670
+      ]
+    ],
+    "share_of_above": 0.663,
+    "share_of_total": 0.531,
+    "underground_m2": 1300,
+    "park_places": 37,
+    "park_res": 30,
+    "park_psn": 7,
+    "total_all_m2": 6550.0,
+    "school_places": 10,
+    "doo_places": 5,
+    "clinic_visits": 2.0,
+    "school_bld": 180,
+    "school_land": 190,
+    "doo_bld": 135,
+    "doo_land": 175,
+    "clinic_bld": 53.9,
+    "clinic_land_ha": 0.35,
+    "play_m2": 53,
+    "rest_m2": 11,
+    "sport_m2": 105,
+    "green_m2": 750,
+    "green_min_site_m2": 150.0,
+    "paved_m2": 1031.0,
+    "land_rub": 750000000.0,
+    "smr_rub": 1375000000.0,
+    "pir_rub": 63000000.0,
+    "exp_rub": 68750000.0,
+    "total_cost_rub": 2256750000.0,
+    "cost_per_living": 648491,
+    "cost_per_total": 344542,
+    "cost_wo_land_per_living": 432974,
+    "revenue_rub": 3739000000,
+    "margin_rub": 1482250000.0,
+    "margin_pct": 39.6
+  },
+  "timeline": [
+    {
+      "stage": "ПИР, стадия П",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "stage": "Государственная экспертиза",
+      "start": 4,
+      "end": 7
+    },
+    {
+      "stage": "ПИР, стадия РД",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "stage": "Подготовительные работы",
+      "start": 7,
+      "end": 9
+    },
+    {
+      "stage": "Подземная часть (паркинг)",
+      "start": 9,
+      "end": 13
+    },
+    {
+      "stage": "Наземная часть, 5 этажей",
+      "start": 13,
+      "end": 25
+    },
+    {
+      "stage": "Отделка и внутренние инженерные сети",
+      "start": 20,
+      "end": 28
+    },
+    {
+      "stage": "Благоустройство и озеленение",
+      "start": 26,
+      "end": 29
+    },
+    {
+      "stage": "Ввод в эксплуатацию, ЗОС",
+      "start": 29,
+      "end": 30
+    }
+  ],
+  "note": "Единая версия: все цифры согласованы с выжимкой и чертежами; противоречие участка 0.25/0.3 принято 0.3 га."
+}
